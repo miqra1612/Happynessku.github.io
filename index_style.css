@@ -76,5 +76,37 @@ a{
     border: 5px solid #6C534E;
 }
 
+.minuman{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    text-align: center;
+    font-size: 24px;
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+    border: 5px solid #6C534E;
+}
+
+.snack{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr;
+    gap: 50px;
+    text-align: center;
+    font-size: 24px;
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+    border: 5px solid #6C534E;
+    
+}
+
+
 
 
